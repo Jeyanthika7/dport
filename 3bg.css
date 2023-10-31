@@ -1,0 +1,15 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background: url('ima.jpg');
+    background-size: cover;
+}
+.image{
+    float: left;
+    width: 30%;
+    padding: 5px;
+}
+.image #pic{
+    width: 100%;
+    height: 300px;
+}
